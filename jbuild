@@ -1,0 +1,4 @@
+(executables
+ ((names (main))
+  (libraries   (portaudio bigarray threads))
+))
